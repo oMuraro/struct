@@ -33,6 +33,20 @@ namespace tad{
             // Console.WriteLine(produto.aplicarCupomDescontoValor(5));
             // Console.WriteLine(produto.aplicarCupomDescontoPorcentagem(50));
             // Console.WriteLine(produto.imprimir());
+
+            // ProfessorS professor = new();
+            // professor.nome = "Xavier";
+            // professor.salario = 5000;
+            // professor.faltas = 3;
+            // professor.cargaHoraria = 40;
+
+            // professor.reajusteSalarialEmValor(1000);
+            // professor.reajusteSalarialEmPorcentagem(25);
+            // professor.descontoSalarialPorFaltaEmValor(500);
+            // professor.descontoSalarialPorFaltaEmPorcentagem(20);
+            // professor.aumentarCargaHorariaDeTrabalho(10, 1000.50);
+
+            // Console.WriteLine(professor.imprimir());
         }
     }
 }
