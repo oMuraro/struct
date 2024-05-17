@@ -12,18 +12,27 @@ namespace tad{
 
             // Console.WriteLine(cliente1.imprimir());
 
-            EquipeEsports equipe1 = new();
-            equipe1.nome = "Giants";
-            equipe1.qntJogadores = 8;
-            equipe1.qntCampVencidos = 3;
-            equipe1.valorGanho = 20000;
-            equipe1.anoEstreia = 2023;
+            // EquipeEsports equipe1 = new();
+            // equipe1.nome = "Giants";
+            // equipe1.qntJogadores = 8;
+            // equipe1.qntCampVencidos = 3;
+            // equipe1.valorGanho = 20000;
+            // equipe1.anoEstreia = 2023;
 
-            equipe1.registrarCampeonatoVencido(2000);
-            equipe1.atualizarValorTotalPremiacoes(1500);
-            Console.WriteLine(equipe1.verificarAnoEstreia());
+            // equipe1.registrarCampeonatoVencido(2000);
+            // equipe1.atualizarValorTotalPremiacoes(1500);
+            // Console.WriteLine(equipe1.verificarAnoEstreia());
 
-            Console.WriteLine(equipe1.imprimir());
+            // Console.WriteLine(equipe1.imprimir());
+
+            // ProdutoS produto = new();
+            // produto.nome = "Vela";
+            // produto.preco = 10.50;
+            // produto.estoque = 10;
+
+            // Console.WriteLine(produto.aplicarCupomDescontoValor(5));
+            // Console.WriteLine(produto.aplicarCupomDescontoPorcentagem(50));
+            // Console.WriteLine(produto.imprimir());
         }
     }
 }
