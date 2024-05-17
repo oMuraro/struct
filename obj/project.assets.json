@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\tad\\tad.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\struct\\tad.csproj",
       "projectName": "tad",
-      "projectPath": "C:\\Users\\aluno\\Desktop\\tad\\tad.csproj",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\struct\\tad.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Desktop\\tad\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Desktop\\struct\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
